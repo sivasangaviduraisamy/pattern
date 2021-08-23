@@ -25,6 +25,7 @@ public class Pattern{
             System.out.println();
         }
         System.out.println("Pattern Printed Successfully");
+        System.out.print("Done");
 
     }
 }
