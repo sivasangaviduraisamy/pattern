@@ -24,7 +24,7 @@ public class Pattern{
             System.out.print(str.substring(0,i)+ str1.substring(n-i-1,n));
             System.out.println();
         }
-        System.out.println("Patter Printed Successfully");
+        System.out.println("Pattern Printed Successfully");
 
     }
 }
